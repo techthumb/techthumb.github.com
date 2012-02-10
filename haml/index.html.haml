@@ -2,17 +2,19 @@
 %html
   %head
     %title Kunal Parikh
-    %link{:rel => 'stylesheet', :href => 'http://twitter.github.com/bootstrap/assets/css/bootstrap-1.1.0.min.css'}
+    %link{:rel => 'stylesheet', :href => 'http://twitter.github.com/bootstrap/assets/css/bootstrap.css'}
+    %link{:rel => 'stylesheet', :href => 'http://twitter.github.com/bootstrap/assets/css/bootstrap-responsive.css'}
+    %meta{:name => 'viewport', :content => 'width=device-width, initial-scale=1.0'}
     :css
       li, body, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { color: #333333; }
   %body
-    .topbar
-      .fill
+    .navbar.navbar-fixed-top
+      .navbar-inner
         .container
-          %h3
-            %a{:href => '#'} Kunal Parikh
-          %ul.nav.secondary-nav
-            %ul
+          %a.btn.btn-navbar{ 'data-toggle' => 'collapse', 'data-target' => '.nav-collapse'}
+          %a.brand{:href => '#'} Kunal Parikh
+          .nav-collapse
+            %ul.nav
               %li
                 %a{:href => 'mailto:kunal@techthumb.in'} kunal@techthumb.in
               %li
@@ -105,7 +107,7 @@
           .span2.columns
           .span14.columns
             %p Developed solutions to stabilize & enhance reliability of legacy systems
-            %p Deliver new business requirements with a focus on testing 
+            %p Deliver new business requirements with a focus on testing
             %p Introduce tools & technologies to enhance understanding of systems
             %p Mentor graduates and developers new to agile methodologies.
             %p Played a key role in introducing:
