@@ -2,13 +2,14 @@
 %html
   %head
     %title Kunal Parikh
-    %link{:rel => 'stylesheet', :href => 'http://twitter.github.com/bootstrap/assets/css/bootstrap.css'}
-    %link{:rel => 'stylesheet', :href => 'http://twitter.github.com/bootstrap/assets/css/bootstrap-responsive.css'}
+    - ['bootstrap', 'bootstrap-responsive'].each do |css|
+      %link{:rel => 'stylesheet', :href => "/css/#{css}.css"}
     %meta{:name => 'viewport', :content => 'width=device-width, initial-scale=1.0'}
     :css
       li, body, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { color: #333333; }
+      .page-header { padding-bottom: 0em; margin-bottom: 0.5em }
   %body
-    .navbar.navbar-fixed-top
+    .navbar.navbar-fixed-top.navbar-inverse
       .navbar-inner
         .container
           %a.btn.btn-navbar{ 'data-toggle' => 'collapse', 'data-target' => '.nav-collapse'}
@@ -25,7 +26,7 @@
     .container
       %section#summary
         .page-header
-          %h1 Summary
+          %h2 Summary
         .row
           .span2.columns
           .span14.columns
@@ -34,18 +35,29 @@
               I have a growing interest and expertise in dynamic languages and collaborative techniques.
               I strongly believe in the Agile manifesto and the eXtreme Programming values, principles & practices.
               I take great pride in delivering business focused solutions with tangible commercial outcomes.
-      %section#cogent
+      %section#hooroo
         .page-header
-          %h1
-            Consultant, Cogent Consulting
-            %small Sep 2009 - present
+          %h2
+            Consultant, hooroo.com.au
+            %small Dec 2011 - Sep 2012 (10 months)
         .row
           .span2.columns
           .span14.columns
-            %h2
+            %p Built a hotel search and booking engine using Rails 3
+            %p Integrated with external inventory proivders
+            %p Briefly worked on javascript front-end built first using ember.js and later re-written using backbone.js
+      %section#cogent
+        .page-header
+          %h2
+            Consultant, Cogent Consulting
+            %small Sep 2009 - Nov 2011 (2 years)
+        .row
+          .span2.columns
+          .span14.columns
+            %h3
               DevOps Engineer, REA Group (realestate.com.au)
               %small
-                Jan 2011 - Present (8 months)
+                Jan 2011 - Nov 2011 (11 months)
         .row
           .span2.columns
           .span14.columns
@@ -56,14 +68,14 @@
         .row
           .span2.columns
           .span14.columns
-            %h2
+            %h3
               Senior Developer, Sensis
               %small
                 Jul 2010 - Dec 2010 (6 months)
         .row
           .span2.columns
           .span14.columns
-            %h3 Online Reporting Platform (ORP)
+            %h4 Online Reporting Platform (ORP)
             %p
               The goal of this project was to record all interactions associated with listings on yellowpages.com.au & partner sites.
               %br
@@ -77,14 +89,14 @@
         .row
           .span2.columns
           .span14.columns
-            %h2
+            %h3
               Senior Developer, Lonely Planet
               %small
                 Sep 2009 - Jun 2010 (10 months)
         .row
           .span2.columns
           .span14.columns
-            %h3 Guidebook Feedback System
+            %h4 Guidebook Feedback System
             %p
               Lonely Planet users provide feedback about information provided in guidebooks.
               %br
@@ -96,13 +108,13 @@
               %li Heavy use of JavaScript to provide a simplified user experience
       %section#sensis
         .page-header
-          %h1
+          %h2
             Consultant, Sensis
             %small Apr 2007 - Aug 2009 (2 years)
         .row
           .span2.columns
           .span14.columns
-            %h2 whitepages.com.au
+            %h3 whitepages.com.au
         .row
           .span2.columns
           .span14.columns
@@ -120,7 +132,7 @@
             %p Screening applicants for permanent positions to build a stable team for the long term
       %section#ibs
         .page-header
-          %h1
+          %h2
             Developer, Internet Business Systems
             %small Mar 2005 - Mar 2007 (2 years)
         .row
@@ -135,7 +147,7 @@
             %p Simulated interactions with third-party banking systems to facilitate testing and enhance confidence in system functionality
       %section#carsales
         .page-header
-          %h1
+          %h2
             Developer, carsales.com
             %small Mar 2003 - Mar 2005 (2 years)
         .row
@@ -153,10 +165,12 @@
               %li Anthill for continuous integration.
       %section#education
         .page-header
-          %h1 Education
+          %h2 Education
         .row
           .span2.columns
           .span14.columns
-            %h2
+            %h3
               2000 - 2002	Bachelor of Computing
               %small Monash University
+  - ['jquery-1.8.0', 'bootstrap-2.1.0'].each do |js|
+    %script{:src => "/js/#{js}.js", :type=>'text/javascripts'}
