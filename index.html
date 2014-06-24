@@ -2,14 +2,12 @@
 <html>
   <head>
     <title>Kunal Parikh</title>
-    <link href='/css/bootstrap.css' rel='stylesheet' />
-    <link href='/css/bootstrap-responsive.css' rel='stylesheet' />
-    <meta content='width=device-width, initial-scale=1.0' name='viewport' />
-    <style type='text/css'>
-      /*<![CDATA[*/
-        li, body, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { color: #333333; }
-        .page-header { padding-bottom: 0em; margin-bottom: 0.5em }
-      /*]]>*/
+    <link href='/css/bootstrap.css' rel='stylesheet'>
+    <link href='/css/bootstrap-responsive.css' rel='stylesheet'>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+    <style>
+      li, body, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { color: #333333; }
+      .page-header { padding-bottom: 0em; margin-bottom: 0.5em }
     </style>
   </head>
   <body>
@@ -31,9 +29,9 @@
         </div>
       </div>
     </div>
-    <br />
-    <br />
-    <br />
+    <br>
+    <br>
+    <br>
     <div class='container'>
       <section id='summary'>
         <div class='page-header'>
@@ -51,11 +49,60 @@
           </div>
         </div>
       </section>
+      <section id='myob'>
+        <div class='page-header'>
+          <h2>
+            Senior Consultant, MYOB
+            <small>Oct 2013 - Present</small>
+          </h2>
+        </div>
+        <div class='row'>
+          <div class='span2 columns'></div>
+          <div class='span14 columns'>
+            <h3>Cashbook</h3>
+            <p>Modelled a double entry accounting system for cash based businesses</p>
+            <p>
+              Technologies used
+              <ul>
+                <li>Single page webapp using backbone.js</li>
+                <li>API using Ruby on Rails</li>
+                <li>PostgreSQL as the data store</li>
+                <li>Ansible for server configuration</li>
+                <li>AWS CloudFormation to create production and pre-production end to end environments</li>
+              </ul>
+            </p>
+          </div>
+        </div>
+      </section>
+      <section id='sensis2'>
+        <div class='page-header'>
+          <h2>
+            Senior Consultant, Sensis
+            <small>Apr 2013 - Sep 2013 (6 months)</small>
+          </h2>
+        </div>
+        <div class='row'>
+          <div class='span2 columns'></div>
+          <div class='span14 columns'>
+            <h3>whitepages.com.au Digital Displays</h3>
+            <p>Built a WYSIWYG editor using angularjs to allow data entry operators to create microsites for advertisers on the site</p>
+            <p>Built an angularjs webapp to display these microsites</p>
+            <p>
+              Sample microsite:
+              <ul>
+                <li>
+                  <a href='http://www.whitepages.com.au/business-listing/white-pages-1051632'>whitepages.com.au/business-listing/white-pages-1051632</a>
+                </li>
+              </ul>
+            </p>
+          </div>
+        </div>
+      </section>
       <section id='hooroo'>
         <div class='page-header'>
           <h2>
             Consultant, hooroo.com.au
-            <small>Dec 2011 - Present</small>
+            <small>Dec 2011 - Mar 2013</small>
           </h2>
         </div>
         <div class='row'>
@@ -125,9 +172,9 @@
             <h4>Online Reporting Platform (ORP)</h4>
             <p>
               The goal of this project was to record all interactions associated with listings on yellowpages.com.au & partner sites.
-              <br />
+              <br>
               Later, ROI reports were produced for advertisers.
-              <br />
+              <br>
               The interesting challenges on this project were around the volume & quality of data to process.
             </p>
             <ul>
@@ -154,9 +201,9 @@
             <h4>Guidebook Feedback System</h4>
             <p>
               Lonely Planet users provide feedback about information provided in guidebooks.
-              <br />
+              <br>
               Feedback very often contained detailed information such changes in trading hours of recommended business, or new contact information for the business.
-              <br />
+              <br>
               The goal was to collect this information in organised fashion, such that the updated information would immediately be made available on their website.
             </p>
             <ul>
@@ -260,17 +307,15 @@
   </body>
   <script src='/js/jquery-1.8.0.js' type='text/javascripts'></script>
   <script src='/js/bootstrap-2.1.0.js' type='text/javascripts'></script>
-  <script type='text/javascript'>
-    //<![CDATA[
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-34582399-1']);
-      _gaq.push(['_trackPageview']);
-      
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    //]]>
+  <script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-34582399-1']);
+    _gaq.push(['_trackPageview']);
+    
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
   </script>
 </html>
