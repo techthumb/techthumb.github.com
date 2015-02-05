@@ -1,0 +1,79 @@
+https://keybase.io/techthumb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://techthumb.in
+  * I am techthumb (https://keybase.io/techthumb) on keybase.
+  * I have a public key with fingerprint B2F1 8A05 53C2 8ED0 29E3  2D3A 9BFD 051D 86B3 6319
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "b2f18a0553c28ed029e32d3a9bfd051d86b36319",
+            "host": "keybase.io",
+            "key_id": "9BFD051D86B36319",
+            "uid": "df3d36f84bad83e1baa78b54fc1fb900",
+            "username": "techthumb"
+        },
+        "merkle_root": {
+            "ctime": 1423178105,
+            "hash": "1c14eaeb261cc8f42bf181865d59c2d6e30bff859e3eacb5732a91d176c21dfe16485b79fc65b661ca84d4ba9ff98f9cd261ea50cca5714765878e207b3edbb5",
+            "seqno": 148984
+        },
+        "service": {
+            "hostname": "techthumb.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423179216,
+    "expire_in": 157680000,
+    "prev": "bd4006a637aa60e9100940c8c27ddf0d87f11c5e8511b1bc304d649fa7e4fd8f",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkn1MVWUcxy9XIIlBGC/yJuJpYDJ2Oc95PyS9MCLJa1vGJjbH5TznPId74HIP
+3Hsg4IasBQxiSzSiGUEiLKKgpo0czjVhFWFiBGlxK0UUMEzTzQoGaOcwXNnz13nO
+8/l9n+/393uagtaZzD6tK36b6j4To3y+/Q2asidWxjwYVKUKLNWDiQ4FOTXjyykU
+ISwVK0QVUHAji6LGO1UJWQrc8WtMMlaGXG5FdeoUbmEtJFaVbOBGsaw485Gr2KUY
+WhgkZMAJOE2TIsEhCSd4RBISKfBQlnAaSBwDSYYEvC5pV93aA7diq5o2RdL/8umZ
+GTqfwTHp9/nS1QNJJiWSkTkKChJHIgAFgeUgTckikCGP4wboRq61SBoS7Zq9tAga
+houQq9CBbC5VXU0taorBAIogAcsBnNYtCW67XgVEQCEBQYIBosjJFAH1UIBjaInm
+RUJiEIlDWeZoPRsSREizJCHwQAIsIxJAkhFgKI6GLC+LDA0ZXUTgKEk3zMsyz8m8
+KOnCSKBxURRoFlAsQ3MshwichSSSIKT1DG5U4lQNcxzPUVXG3lWmiMjwbfTt//Es
+ilMvKnapmiqqDv3ErmnFqUZoraLYIF9B8BPbmogNKk5Jn9p/xwp09IGG8ARgkjFU
+Xqy4kE0xCJplOFxfxj2ozJi1ROE4IzAkKwgMjniA4zyFi5xIsJIk4xLHygCINOJo
+ACCAIolTEkPxssAiSpY4+d+Yeus1IV+XdCv5TkErdSGsqsEc62vyMZv8/czGuzU9
+HBBy/zEPWx9ZXm/lr2U9mrYh7rg36LsKNoLK6hrfdaIxearLxQxuS/9iamrp6brf
+m/7oqj7kblkPF18OD/Zczo6zaTfDkXk881l2aF92wfaoKzPe6olI16+ld6xFEfND
+C99s8ZxkQoIR7TuoZVhXjt4KLMwLq8cnn7pwUUscbsr8szrs/I4PWmpvJMc/9/aQ
+t/JWe3dvSZ21o+eFkR6t42zm1x+elXuH867lJHo+33WsxTYQXXUqsHGyPTrDdL41
+oeV1pin8zd1+NZUvxeTMLL33TvvYym77mT01DZfe2leT03+4zd+yVBdfsHh7a2hR
+ZM317ZZwdeOPHamJSUmvRjR2Duz3b/AdhXcDCk4/fyTp7+45b8x0Ze8bV7McbZOt
+2rt3yx+ffeZgQJY1bzlopLLzwuGFI4Ob+NyjDtOp1HXN6UrKbMMvWn9t88jYgbTF
+k/VD7aEXURxb3qwsHkj4aXOlNWRr9JelgR3tOzdjr910fz/6JJny0WBtRc+2iZ3z
+Prn3Bhp/2PMxP+hd6C9ZIp/oMs1gPz/UVTEQeSy2pvPc+zNomrm913OjP61hlgw+
+EfbpY4ElY7MbYz1XX9yxJao/urssvbEPLx3IPVPHXBpdPl4PVLC3bb9Z4U9Pxiyk
+3knpm42cyHawPlHerqzM4fmvDp7rK5QX5gatGbVEaMT4tPbXlcv3NhxKYK73zszP
+pf0D
+=JsQx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/techthumb
