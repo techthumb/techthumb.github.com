@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?><VAST version='2.0'>
+    <Ad id='AdswizzAd6737'>
+        <InLine>
+            <AdSystem>Adswizz</AdSystem>
+            <AdTitle>COI Finance - No Targeting High 8</AdTitle>
+            <Description>COI Finance - No Targeting High 8</Description>
+            <Impression id='6737'><![CDATA[http://thisisglobal.adswizz.com/www/delivery/swfIndex.php?&listenerId=2d271126d9e71e35e4a99c9511f93&companionZones=827&cbs=3190069&reqType=AdsDisplayStarted&OAGEO=dXMlN0NueSU3Q25ldyt5b3JrJTdDMTAwMDklN0M0MC43MjUyMDQ0Njc3NzM0NCU3Qy03My45ODAyMDE3MjExOTE0JTdDNTAxJTdDMjEyJTdDJTdDJTNBJTNBZmZmZiUzQTY1LjIwNi4yMS4xMiU3Q3Zlcml6b24rYnVzaW5lc3M=&zoneId=825&protocolVersion=2.0&adData=billing%3Athisisglobal%3B6737%3BGBP%3B0.0%3Bfalse%5EAS%2Fi%3Athisisglobal%3Bad_id%3A6737%3Bzone_id%3A825%3Bview_key%3A1459371509579%3Bduration%3A30066&sessionId=69a72890592897dc15af926be37f787b]]></Impression>
+            <Creatives>
+                <Creative id='6737' sequence='1'>
+                    <Linear>
+                        <Duration>00:00:30</Duration>
+                        <VideoClicks>
+                            <CustomClick id='6737'><![CDATA[http://thisisglobal.adswizz.com/www/delivery/swfIndex.php?reqType=AdsClicked&protocolVersion=2.0&adData=AS%2Fi%3Athisisglobal%3Bad_id%3A6737%3Bzone_id%3A825%3Bview_key%3A1459371509579%3Bduration%3A30066&clickX=[clickX]&clickY=[clickY]&time=[timestamp]&tagsArray=&cb=[random]&OAGEO=dXMlN0NueSU3Q25ldyt5b3JrJTdDMTAwMDklN0M0MC43MjUyMDQ0Njc3NzM0NCU3Qy03My45ODAyMDE3MjExOTE0JTdDNTAxJTdDMjEyJTdDJTdDJTNBJTNBZmZmZiUzQTY1LjIwNi4yMS4xMiU3Q3Zlcml6b24rYnVzaW5lc3M=&sessionId=69a72890592897dc15af926be37f787b&listenerId=2d271126d9e71e35e4a99c9511f93&cbs=533853]]></CustomClick>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery='progressive' bitrate='128000' width='0' height='0' type='audio/mpeg'><![CDATA[http://delivery-cdn-cf.adswizz.com/thisisglobal_newEnco/ad_6737_6d584348d1bd35b037900e25dbc02b5e_5e7cbfb3-af3c-4e6a-9ca2-181585abfdea.mp3]]></MediaFile>
+                        </MediaFiles>
+                        <TrackingEvents>
+                            <Tracking event='start'><![CDATA[http://thisisglobal.adswizz.com/www/delivery/swfIndex.php?reqType=AdsSendReport&protocolVersion=2.0&adData=AS%2Fi%3Athisisglobal%3Bad_id%3A6737%3Bzone_id%3A825%3Bview_key%3A1459371509579%3Bduration%3A30066&tagsArray=&displayPercentage=0&time=0&OAGEO=dXMlN0NueSU3Q25ldyt5b3JrJTdDMTAwMDklN0M0MC43MjUyMDQ0Njc3NzM0NCU3Qy03My45ODAyMDE3MjExOTE0JTdDNTAxJTdDMjEyJTdDJTdDJTNBJTNBZmZmZiUzQTY1LjIwNi4yMS4xMiU3Q3Zlcml6b24rYnVzaW5lc3M=&sessionId=69a72890592897dc15af926be37f787b&listenerId=2d271126d9e71e35e4a99c9511f93&cbs=9306153]]></Tracking>
+                            <Tracking event='firstQuartile'><![CDATA[http://thisisglobal.adswizz.com/www/delivery/swfIndex.php?reqType=AdsSendReport&protocolVersion=2.0&adData=AS%2Fi%3Athisisglobal%3Bad_id%3A6737%3Bzone_id%3A825%3Bview_key%3A1459371509579%3Bduration%3A30066&tagsArray=&displayPercentage=25&time=7&OAGEO=dXMlN0NueSU3Q25ldyt5b3JrJTdDMTAwMDklN0M0MC43MjUyMDQ0Njc3NzM0NCU3Qy03My45ODAyMDE3MjExOTE0JTdDNTAxJTdDMjEyJTdDJTdDJTNBJTNBZmZmZiUzQTY1LjIwNi4yMS4xMiU3Q3Zlcml6b24rYnVzaW5lc3M=&sessionId=69a72890592897dc15af926be37f787b&listenerId=2d271126d9e71e35e4a99c9511f93&cbs=4276108]]></Tracking>
+                            <Tracking event='midpoint'><![CDATA[http://thisisglobal.adswizz.com/www/delivery/swfIndex.php?reqType=AdsSendReport&protocolVersion=2.0&adData=AS%2Fi%3Athisisglobal%3Bad_id%3A6737%3Bzone_id%3A825%3Bview_key%3A1459371509579%3Bduration%3A30066&tagsArray=&displayPercentage=50&time=15&OAGEO=dXMlN0NueSU3Q25ldyt5b3JrJTdDMTAwMDklN0M0MC43MjUyMDQ0Njc3NzM0NCU3Qy03My45ODAyMDE3MjExOTE0JTdDNTAxJTdDMjEyJTdDJTdDJTNBJTNBZmZmZiUzQTY1LjIwNi4yMS4xMiU3Q3Zlcml6b24rYnVzaW5lc3M=&sessionId=69a72890592897dc15af926be37f787b&listenerId=2d271126d9e71e35e4a99c9511f93&cbs=7687130]]></Tracking>
+                            <Tracking event='thirdQuartile'><![CDATA[http://thisisglobal.adswizz.com/www/delivery/swfIndex.php?reqType=AdsSendReport&protocolVersion=2.0&adData=AS%2Fi%3Athisisglobal%3Bad_id%3A6737%3Bzone_id%3A825%3Bview_key%3A1459371509579%3Bduration%3A30066&tagsArray=&displayPercentage=75&time=22&OAGEO=dXMlN0NueSU3Q25ldyt5b3JrJTdDMTAwMDklN0M0MC43MjUyMDQ0Njc3NzM0NCU3Qy03My45ODAyMDE3MjExOTE0JTdDNTAxJTdDMjEyJTdDJTdDJTNBJTNBZmZmZiUzQTY1LjIwNi4yMS4xMiU3Q3Zlcml6b24rYnVzaW5lc3M=&sessionId=69a72890592897dc15af926be37f787b&listenerId=2d271126d9e71e35e4a99c9511f93&cbs=3476404]]></Tracking>
+                            <Tracking event='complete'><![CDATA[http://thisisglobal.adswizz.com/www/delivery/swfIndex.php?reqType=AdsDisplayEnd&protocolVersion=2.0&adData=AS%2Fi%3Athisisglobal%3Bad_id%3A6737%3Bzone_id%3A825%3Bview_key%3A1459371509579%3Bduration%3A30066&tagsArray=&displayPercentage=100&time=30&OAGEO=dXMlN0NueSU3Q25ldyt5b3JrJTdDMTAwMDklN0M0MC43MjUyMDQ0Njc3NzM0NCU3Qy03My45ODAyMDE3MjExOTE0JTdDNTAxJTdDMjEyJTdDJTdDJTNBJTNBZmZmZiUzQTY1LjIwNi4yMS4xMiU3Q3Zlcml6b24rYnVzaW5lc3M=&sessionId=69a72890592897dc15af926be37f787b&listenerId=2d271126d9e71e35e4a99c9511f93&cbs=8445178]]></Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+                <Creative sequence='1'>
+                    <CompanionAds>
+                        <Companion id='6747' width='300' height='250'>
+                            <StaticResource creativeType='image/jpeg'><![CDATA[http://delivery-cdn-cf.adswizz.com/thisisglobal/ffftextcoifinance_ad_56e1870fa871d_1457620751.jpg]]></StaticResource>
+                            <CompanionClickThrough><![CDATA[http://thisisglobal.adswizz.com/www/delivery/ck.php?oaparams=3___adData=2__billing%3Dthisisglobal__6747__GBP__0.0__false%5Einstance%3Dthisisglobal__ad_id%3D6747__zone_id%3D827__view_key%3D1459371509619__duration%3D0___sessionId=69a72890592897dc15af926be37f787b___listenerId=2d271126d9e71e35e4a99c9511f93___cbs=7725105___url=]]></CompanionClickThrough>
+                            <TrackingEvents>
+                                <Tracking event='creativeView'><![CDATA[http://thisisglobal.adswizz.com/www/delivery/lg.php?adData=billing%3Athisisglobal%3B6747%3BGBP%3B0.0%3Bfalse%5Einstance%3Athisisglobal%3Bad_id%3A6747%3Bzone_id%3A827%3Bview_key%3A1459371509619%3Bduration%3A0&loc=&listenerId=2d271126d9e71e35e4a99c9511f93&sessionId=69a72890592897dc15af926be37f787b&ip=%3A%3Affff%3A65.206.21.12&OAGEO=dXMlN0NueSU3Q25ldyt5b3JrJTdDMTAwMDklN0M0MC43MjUyMDQ0Njc3NzM0NCU3Qy03My45ODAyMDE3MjExOTE0JTdDNTAxJTdDMjEyJTdDJTdDJTNBJTNBZmZmZiUzQTY1LjIwNi4yMS4xMiU3Q3Zlcml6b24rYnVzaW5lc3M=&user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10.10%3B+rv%3A45.0%29+Gecko%2F20100101+Firefox%2F45.0&cbs=5960144]]></Tracking>
+                            </TrackingEvents>
+                        </Companion>
+                    </CompanionAds>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type='AdServer'>
+                    <AdContext>fHA6MzgxMw==</AdContext>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
