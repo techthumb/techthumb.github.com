@@ -1,0 +1,41 @@
+<Ad id='424242'>
+  <InLine>
+    <AdSystem>techthumb ad system </AdSystem>
+    <AdTitle>techthumb ad title </AdTitle>
+    <Description>techthumb description </Description>
+    <Impression id='6843'><![CDATA[http://ads.techthumb.in?e=Impression]]></Impression>
+    <Creatives>
+      <Creative id='6843' sequence='1'>
+        <Linear>
+          <Duration>00:01:42</Duration>
+          <VideoClicks>
+            <CustomClick id='6843'><![CDATA[http://ads.techthumb.in?e=CustomClick]]></CustomClick>
+          </VideoClicks>
+          <MediaFiles>
+            <MediaFile delivery='progressive' bitrate='128000' width='500' height='0' type='audio/mpeg'><![CDATA[http://ads.techthumb.in?e=ad.mp3]]></MediaFile>
+          </MediaFiles>
+          <TrackingEvents>
+            <Tracking event='start'><![CDATA[http://ads.techthumb.in?e=tracking/start]]></Tracking>
+            <Tracking event='firstQuartile'><![CDATA[http://ads.techthumb.in?e=tracking/firstQuartile]]></Tracking>
+            <Tracking event='midpoint'><![CDATA[http://ads.techthumb.in?e=tracking/midpoint]]></Tracking>
+            <Tracking event='thirdQuartile'><![CDATA[http://ads.techthumb.in?e=tracking/thirdQuartile]]></Tracking>
+            <Tracking event='complete'><![CDATA[http://ads.techthumb.in?e=tracking/complete]]></Tracking>
+          </TrackingEvents>
+        </Linear>
+      </Creative>
+      <Creative sequence='1'>
+        <CompanionAds>
+          <Companion id='6747' width='300' height='250'>
+            <StaticResource creativeType='image/jpeg'><![CDATA[http://delivery-cdn-cf.adswizz.com/thisisglobal/ffftextcoifinance_ad_56e1870fa871d_1457620751.jpg]]></StaticResource>
+            <CompanionClickThrough><![CDATA[http://thisisglobal.adswizz.c.textom/www/delivery/ck.php?oaparams=3___adData=2__billing%3Dthisisglobal__6747__GBP__0.0__false%5Einstance%3Dthisisglobal__ad_id%3D6747__zone_id%3D827__view_key%3D1459371509619__duration%3D0___sessionId=69a72890592897dc15af926be37f787b___listenerId=2d271126d9e71e35e4a99c9511f93___cbs=7725105___url=]]></CompanionClickThrough>
+            <TrackingEvents>
+              <Tracking event='creativeView'><![CDATA[http://thisisglobal.adswizz.com/www/delivery/lg.php?adData=billing%3Athisisglobal%3B6747%3BGBP%3B0.0%3Bfalse%5Einstance%3Athisisglobal%3Bad_id%3A6747%3Bzone_id%3A827%3Bview_key%3A1459371509619%3Bduration%3A0&loc=&listenerId=2d271126d9e71e35e4a99c9511f93&sessionId=69a72890592897dc15af926be37f787b&ip=%3A%3Affff%3A65.206.21.12&OAGEO=dXMlN0NueSU3Q25ldyt5b3JrJTdDMTAwMDklN0M0MC43MjUyMDQ0Njc3NzM0NCU3Qy03My45ODAyMDE3MjExOTE0JTdDNTAxJTdDMjEyJTdDJTdDJTNBJTNBZmZmZiUzQTY1LjIwNi4yMS4xMiU3Q3Zlcml6b24rYnVzaW5lc3M=&user_agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10.10%3B+rv%3A45.0%29+Gecko%2F20100101+Firefox%2F45.0&cbs=5960144]]></Tracking>
+            </TrackingEvents>
+          </Companion>
+        </CompanionAds>
+      </Creative>
+    </Creatives>
+    <Extensions>
+    </Extensions>
+  </InLine>
+</Ad>
