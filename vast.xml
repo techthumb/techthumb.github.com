@@ -47,12 +47,8 @@
                                 <![CDATA[https://d.agkn.com/pixel/4134/?che=297626&col=423224,101,1447976,,2944552,fc50c378-d328-471f-ad20-96fbc553478c&l0=]]></ClickTracking>
                         </AdInteractions>
                         <MediaFiles>
-                            <MediaFile delivery='progressive' type='audio/ogg' bitrate='130'>
-                                <![CDATA[https://a.adsrvr.org/221ldkm/b1wnrbh/ybys4o7q9f7454102e0c4cb3b7a5f81656f8f445.ogg]]></MediaFile>
                             <MediaFile delivery='progressive' type='audio/mpeg' bitrate='130'>
                                 <![CDATA[https://a.adsrvr.org/221ldkm/b1wnrbh/ybys4o7qa1fa8983862d4af5abc068ff53e49cc9.mp3]]></MediaFile>
-                            <MediaFile delivery='progressive' type='audio/ogg' bitrate='107'>
-                                <![CDATA[https://a.adsrvr.org/221ldkm/b1wnrbh/ybys4o7qa755cd47d76b4c55b17886f3770222ea.ogg]]></MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>
